@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://in-sysup-txdl.vivoglobal.com/upgrade/official/officialFiles/PD1928F_EX_A_1.70.7-update-full_1623980247.zip
+  ROM_URL: https://mirrors.lolinet.com/firmware/lenovo/Tab_M10_HD/TB-X505X/TB-X505X_USR_S001033_2003030144_Q00015_ROW.zip
 
 jobs:
   build:
