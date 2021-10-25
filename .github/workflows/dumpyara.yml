@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://drive.google.com/file/d/1CUM-ciI7afba0K9yukh2HS_oBmWs7J9Y/view
+  ROM_URL: https://drive.google.com/file/d/1CUM-ciI7afba0K9yukh2HS_oBmWs7J9Y
 
 jobs:
   build:
