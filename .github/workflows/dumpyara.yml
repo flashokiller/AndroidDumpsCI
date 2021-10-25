@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://drive.google.com/file/d/1CUM-ciI7afba0K9yukh2HS_oBmWs7J9Y
+  ROM_URL: https://dropmirror.bahacec.workers.dev/0:/Vivo_U10_PD1928F_EX_A_1.9.3_LA.UM.7.11.r1-01300-NICOBAR.0-sm6125_split_QPST_%28by_vivofirmware.com%29.zip
 
 jobs:
   build:
