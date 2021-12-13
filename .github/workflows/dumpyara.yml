@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://dropmirror.bahacec.workers.dev/0:/Vivo_U10_PD1928F_EX_A_1.9.3_LA.UM.7.11.r1-01300-NICOBAR.0-sm6125_split_QPST_%28by_vivofirmware.com%29.zip
+  ROM_URL: https://drive.google.com/uc?id=1L33LRELwcDO5fNhh1EhKgLYnVgqSCaM8&export=download
 
 jobs:
   build:
@@ -24,7 +24,7 @@ jobs:
        - name: Clone Dumpyara
          run: |
               git clone https://github.com/HyperNotAryanX97/phoenix_firmware_dumper
-               ls
+           
        - name: Setup Dumpyara environment
          working-directory: phoenix_firmware_dumper
          run: |
