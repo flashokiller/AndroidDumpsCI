@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://drive.google.com/uc?id=1L33LRELwcDO5fNhh1EhKgLYnVgqSCaM8&export=download
+  ROM_URL: https://dropmirror.bahacec.workers.dev/0:/Samfw.com_SM-M325F_INS_M325FXXU3AUK1_fac.zip
 
 jobs:
   build:
