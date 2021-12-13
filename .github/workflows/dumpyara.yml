@@ -29,7 +29,7 @@ jobs:
          working-directory: phoenix_firmware_dumper
          run: |
               sudo bash setup.sh
-              git config --global user.name "flashokiller"
+              git config --global user.name "flashokillerify"
               git config --global user.email "flashokiller@gmail.com"
 
        - name: Setup config envs
