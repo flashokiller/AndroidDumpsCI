@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://drive.google.com/uc?id=1L6ys11m-hmk_ejeuRRww8SElGfc4WdAb&export=download
+  ROM_URL: https://bot2.atharv2951.workers.dev/0:/Samfw.com_SM-E625F_INS_E625FDDU2AUI2_fac.zip
 
 jobs:
   build:
