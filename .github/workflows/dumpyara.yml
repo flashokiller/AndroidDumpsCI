@@ -43,6 +43,6 @@ jobs:
        - name: Running Dumpyara
          working-directory: firmware_dumper
          run: |
-              ./dump.sh  "$ROM_URL"
+              ./dumper.sh  "$ROM_URL"
 
 #haha QCOM
