@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://mirrors.lolinet.com/firmware/lenovo/Tab_M10_HD/TB-X505X/TB-X505X_USR_S001033_2003030144_Q00015_ROW.zip
+  ROM_URL: https://drive.google.com/uc?id=1L6ys11m-hmk_ejeuRRww8SElGfc4WdAb&export=download
 
 jobs:
   build:
