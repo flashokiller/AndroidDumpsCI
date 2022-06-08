@@ -11,7 +11,7 @@ defaults:
     shell: bash
 
 env:
-  ROM_URL: https://bot2.atharv2951.workers.dev/0:/Samfw.com_SM-E625F_INS_E625FDDU2AUI2_fac.zip
+  ROM_URL: https://in-sysup-txdl.vivoglobal.com/upgrade/official/officialFiles/PD1928F_EX_A_1.70.12-update-full_1634208097.zip
 
 jobs:
   build:
